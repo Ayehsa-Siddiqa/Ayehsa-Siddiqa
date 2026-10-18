@@ -8,7 +8,7 @@ Full-Stack Software Engineer with 4+ years of experience building production web
 
 ## Selected work
 - Vue-Project: Vue 3 + TypeScript e-commerce UI
-- Live sites: ingeniors.com · tippycart.com · 3gleather.shop
+- Live sites: orchit.ai · goodiset.com · tossdown.com · bnu.edu.pk · ingeniors.com · tippycart.com · 3gleather.shop
 
 ## Contact
 LinkedIn: linkedin.com/in/ayesha-siddiqaa
