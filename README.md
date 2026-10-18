@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ayesha 👋
+Full-Stack Software Engineer with 4+ years of experience building production web apps.
 
-<!--
-**Ayehsa-Siddiqa/Ayehsa-Siddiqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work with
+- **Front-end:** React.js, Next.js, Vue 3, TypeScript, Tailwind CSS
+- **Back-end:** Node.js, Express, MongoDB, Laravel (PHP), MySQL, PostgreSQL
+- **CMS:** WordPress / WooCommerce
 
-Here are some ideas to get you started:
+## Selected work
+- Vue-Project: Vue 3 + TypeScript e-commerce UI
+- Live sites: ingeniors.com · tippycart.com · 3gleather.shop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+LinkedIn: linkedin.com/in/ayesha-siddiqaa
+Email: ayeshasiddiqa8090@gmail.com
