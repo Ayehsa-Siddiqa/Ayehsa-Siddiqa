@@ -2,7 +2,7 @@
 Full-Stack Software Engineer with 4+ years of experience building production web apps.
 
 ## What I work with
-- **Front-end:** React.js, Next.js, Vue 3, TypeScript, Tailwind CSS
+- **Front-end:** React.js, Next.js, Vue 3, TypeScript, Tailwind CSS, Bootstrap, CSS
 - **Back-end:** Node.js, Express, MongoDB, Laravel (PHP), MySQL, PostgreSQL
 - **CMS:** WordPress / WooCommerce
 
